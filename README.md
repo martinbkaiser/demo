@@ -3,6 +3,6 @@ This is my readme file
 
 ## Yay!
 
-this is a issue line
+New lines
 
 Causing issues
